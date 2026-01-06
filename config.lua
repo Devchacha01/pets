@@ -238,18 +238,8 @@ Config.Pets = {
         skin = 0
     },
     
-    -- LOOTCRATE PETS (Domestic Only)
-    ['pet_dog_hound'] = { name = 'pet_dog_hound', label = 'Hound Dog', model = 'A_C_DogHound_01', type = 'dog', price = 600, description = 'A loyal hound.', image = 'pet_dog_hound.png', skin = 0 },
-    ['pet_dog_collie'] = { name = 'pet_dog_collie', label = 'Collie', model = 'A_C_DogCollie_01', type = 'dog', price = 1000, description = 'Agile herder.', image = 'pet_dog_collie.png', skin = 0 },
-    ['pet_dog_retriever'] = { name = 'pet_dog_retriever', label = 'Chesapeake Retriever', model = 'A_C_DogChesBayRetriever_01', type = 'dog', price = 1100, description = 'Excellent swimmer.', image = 'pet_dog_retriever.png', skin = 0 },
-    ['pet_dog_husky'] = { name = 'pet_dog_husky', label = 'Husky', model = 'A_C_DogHusky_01', type = 'dog', price = 1400, description = 'Strong sled dog.', image = 'pet_dog_husky.png', skin = 0 },
-    ['pet_dog_foxhound'] = { name = 'pet_dog_foxhound', label = 'American Foxhound', model = 'A_C_DogAmericanFoxhound_01', type = 'dog', price = 650, description = 'Keen tracker.', image = 'pet_dog_foxhound.png', skin = 0 },
-    ['pet_dog_shepherd'] = { name = 'pet_dog_shepherd', label = 'Australian Shepherd', model = 'A_C_DogAustralianSheperd_01', type = 'dog', price = 900, description = 'Intelligent herder.', image = 'pet_dog_shepherd.png', skin = 0 },
-    ['pet_dog_poodle'] = { name = 'pet_dog_poodle', label = 'Standard Poodle', model = 'A_C_DogPoodle_01', type = 'dog', price = 1200, description = 'Elegant breed.', image = 'pet_dog_poodle.png', skin = 0 },
-    ['pet_dog_coonhound'] = { name = 'pet_dog_coonhound', label = 'Bluetick Coonhound', model = 'A_C_DogBluetickCoonhound_01', type = 'dog', price = 700, description = 'Expert tracker.', image = 'pet_dog_coonhound.png', skin = 0 },
-    ['pet_dog_labrador'] = { name = 'pet_dog_labrador', label = 'Labrador', model = 'A_C_DogLab_01', type = 'dog', price = 800, description = 'Friendly companion.', image = 'pet_dog_labrador.png', skin = 0 },
-    ['pet_cat_siamese'] = { name = 'pet_cat_siamese', label = 'Siamese Cat', model = 'A_C_Cat_01', type = 'cat', price = 1300, description = 'A rare cat breed.', image = 'pet_cat_siamese.png', skin = 0 },
-}
+    --
+
 
 -------------------------------------------------
 -- SHOP LOCATIONS

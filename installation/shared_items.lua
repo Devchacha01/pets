@@ -28,3 +28,8 @@
 -- CATS (NEW!)
 -- ============================================
 ['tabbycat']        = {['name'] = 'tabbycat',       ['label'] = 'Tabby Cat',                ['weight'] = 300, ['type'] = 'item', ['image'] = 'animal_cat_tabby.png',               ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['level'] = 0, ['description'] = 'Common but lovable barn cat.'},
+
+-- ============================================
+-- LOOTCRATE PETS (Domestic Only)
+-- ============================================
+-- Removed
