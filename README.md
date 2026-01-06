@@ -53,18 +53,7 @@ A comprehensive and interactive pet system for RedM (RSG Framework), allowing pl
     ['lionpoodle'] = {['name'] = 'lionpoodle', ['label'] = 'Lion Poodle', ['weight'] = 0, ['type'] = 'item', ['image'] = 'animal_dog_lionpoodle.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Fancy groomed poodle.'},
     ['tabbycat'] = {['name'] = 'tabbycat', ['label'] = 'Tabby Cat', ['weight'] = 0, ['type'] = 'item', ['image'] = 'animal_cat_tabby.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Lovable barn cat.'},
     
-    -- Lootcrate/Special Versions
-    ['pet_dog_hound'] = {['name'] = 'pet_dog_hound', ['label'] = 'Hound Dog', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_hound.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'A loyal hound.'},
-    ['pet_dog_collie'] = {['name'] = 'pet_dog_collie', ['label'] = 'Collie', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_collie.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Agile herder.'},
-    ['pet_dog_retriever'] = {['name'] = 'pet_dog_retriever', ['label'] = 'Chesapeake Retriever', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_retriever.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Excellent swimmer.'},
-    ['pet_dog_husky'] = {['name'] = 'pet_dog_husky', ['label'] = 'Husky', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_husky.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Strong sled dog.'},
-    ['pet_dog_foxhound'] = {['name'] = 'pet_dog_foxhound', ['label'] = 'American Foxhound', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_foxhound.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Keen tracker.'},
-    ['pet_dog_shepherd'] = {['name'] = 'pet_dog_shepherd', ['label'] = 'Australian Shepherd', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_shepherd.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Intelligent herder.'},
-    ['pet_dog_poodle'] = {['name'] = 'pet_dog_poodle', ['label'] = 'Standard Poodle', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_poodle.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Elegant breed.'},
-    ['pet_dog_coonhound'] = {['name'] = 'pet_dog_coonhound', ['label'] = 'Bluetick Coonhound', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_coonhound.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Expert tracker.'},
-    ['pet_dog_labrador'] = {['name'] = 'pet_dog_labrador', ['label'] = 'Labrador', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_dog_labrador.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'Friendly companion.'},
-    ['pet_cat_siamese'] = {['name'] = 'pet_cat_siamese', ['label'] = 'Siamese Cat', ['weight'] = 0, ['type'] = 'item', ['image'] = 'pet_cat_siamese.png', ['unique'] = true, ['useable'] = true, ['shouldClose'] = true, ['combinable'] = nil, ['description'] = 'A rare cat breed.'},
-    ```
+    -
 
 3.  **Images**:
     *   Ensure all pet images (found in `html/img/`) are also copied to `rsg-inventory/html/images/`.
