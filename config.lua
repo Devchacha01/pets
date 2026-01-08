@@ -236,10 +236,8 @@ Config.Pets = {
         description = 'Common but lovable barn cat.',
         image = 'animal_cat_tabby.png',
         skin = 0
-    },
-    
-    --
-
+    }
+}
 
 -------------------------------------------------
 -- SHOP LOCATIONS
